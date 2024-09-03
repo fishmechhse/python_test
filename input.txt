@@ -1,0 +1,11 @@
+10
+Ivanov 1 WA
+Petrov 2 WA
+Ivanov 3 CE
+Ivanov 1 OK
+Petrov 3 OK
+Ivanov 3 OK
+Ivanov 2 OK
+Sidorov 3 OK
+Sidorov 3 OK
+Sidorov 3 CE
